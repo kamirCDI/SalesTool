@@ -6,6 +6,7 @@ public class Displaytoll {
 	private String prenom;
 	private String adresse;
 	private String local;	
+	private int d;
 	
 	
 }
